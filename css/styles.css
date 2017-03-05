@@ -1,0 +1,9 @@
+@import url("normalize.css");
+
+/* Themes */
+@import url("theme.css");
+@import url("menus.css");
+@import url("layout.css");
+
+/* Plugins */
+@import url("simple-slider.css");

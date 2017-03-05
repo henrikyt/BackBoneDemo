@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+.container {
+    margin: auto;
+    width: 80%;
+    position: relative;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.page {
+    margin: 10px 0 10px 0;
+}
+
+#header {
+    padding: 10px 0px 10px 0px;
+    clear: both;
+}
+
+.footer{
+    width: 100%;
+    text-align: center;
+    clear:both;
+    display: inline-block;
+    margin-bottom: 100px;
+    margin-top: 150px;
+}
+
+.footer h1{
+    color: #2c3e50;
+}
+
+.footer h2{
+    color: #2c3e50;
+}
